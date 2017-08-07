@@ -1,5 +1,6 @@
 # Mystique
 
+[![Build Status](https://travis-ci.org/feedcast/mystique.svg?branch=master)](https://travis-ci.org/feedcast/mystique)
 [![NPM version](https://badge.fury.io/js/image-proxy.svg)](https://badge.fury.io/js/image-proxy)
 [![Build Status](https://secure.travis-ci.org/jpmckinney/image-proxy.png)](https://travis-ci.org/jpmckinney/image-proxy)
 [![Dependency Status](https://david-dm.org/jpmckinney/image-proxy.svg)](https://david-dm.org/jpmckinney/image-proxy)
